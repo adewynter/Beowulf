@@ -1,6 +1,6 @@
 # Beowulf
 
-Repository for the paper 'The Hrunting of AI: Where and How to Improve English Dialectal Fairness', by anonymous authors. 
+Repository for the paper 'The Hrunting of AI: Where and How to Improve English Dialectal Fairness', by Wei Li and Adrian de Wynter. 
 
 This paper explores the relationship between human-human agreement and LLM-human agreement, and its impact to learnability, in four English dialects and West Frisian. 
 
@@ -37,7 +37,7 @@ data/       # Most of the stuff you need is here: human data, synthetic data, an
 
 ## Citation
 ```bibtex
-removed for anonymity
+Coming soon!
 ```
 
 ## Licence
